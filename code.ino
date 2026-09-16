@@ -47,8 +47,8 @@ bool bmeFound = false;
 // =====================================================
 
 // Replace these values after calibrating the sensor
-int DRY_VALUE = 5000;
-int WET_VALUE = 1700;
+int DRY_VALUE = 3000;
+int WET_VALUE = 1500;
 
 // =====================================================
 // ALERT LEVELS
